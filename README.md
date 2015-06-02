@@ -1,2 +1,2 @@
-This is my Insight project. 
+This is my Insight project. To be completed soon.
 # mooc
