@@ -1,11 +1,9 @@
 #Empower edX
 
-This repository contains details of my work as a fellow at Data Science Insight which focuses on making a churn prediction framework to idensity student at risk in **massive open online courses** (mooc). 
+This repository contains details of a data project I did during my fellowship at Data Science Insight. The goal is to make a churn prediction framework to idensity student at risk in **massive open online courses** (mooc). 
 
-The data is resealsed I used is aggregated from a series of courses offered by Harvard and MIT on *edX* platform. 
+The data I used is aggregated from a series of courses offered by Harvard and MIT on *edX* platform. The code and graphs are in IPython notebooks:
 
-The code and graphs are in IPython notebooks:
+**DataPreparation** does data cleaning, adding new features to existing ones and some exploratory analysis and prepares the data for modelling. 
 
-**DataPreparation** Contains data cleaning, adding new features to existing ones and some exploratory analysis and plots and prepares the data for modelling. 
-
-**Learning** Here the churn predictor is built and applied to data. 
+**Learning** Here the churn predictor is built, applied to the cleaned data and is tested/validated.  
