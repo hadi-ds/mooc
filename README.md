@@ -4,6 +4,6 @@ This repository contains details of data project I did during my fellowship at I
 
 The data I used is aggregated from a series of courses offered by Harvard and MIT on *edX* platform. The code and graphs are in two IPython notebooks:
 
-**DataPreparation** for data cleaning, adding new features to existing ones and some exploratory analysis in order to prepare data for modelling. 
+**DataPreparation** For data cleaning, adding new features to existing ones and some exploratory analysis in order to prepare data for modelling. 
 
-**Learning** Starting with imputation of missing data and turning cathegorical into numericals, the churn predictor is built and applied to the cleaned data (tested/validated). The unbalaned nature of data is addressed by bootstrapping and adjusting calss weights inversely proportional to class frequencies. The efficiency of various churn predictors is tested by constructing confusion matrices. 
+**Learning** Starting with imputation of missing data and turning cathegoricals into numericals, the churn predictor is built and applied to the cleaned data (tested/validated). The unbalaned nature of data is addressed by bootstrapping and adjusting calss weights inversely proportional to class frequencies. The efficiency of various churn predictors is tested by constructing confusion matrices. 
