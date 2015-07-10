@@ -6,4 +6,4 @@ The data I used is aggregated from a series of courses offered by Harvard and MI
 
 **DataPreparation** For data cleaning, adding new features to existing ones and some exploratory analysis in order to prepare data for modelling. 
 
-**Learning** Starting with imputation of missing data and turning cathegoricals into numericals, the churn predictor is built and applied to the cleaned data (tested/validated). The unbalanced nature of data is addressed by bootstrapping and setting class weights inversely proportional to class frequencies. The efficiency of various churn predictors is gauged by constructing confusion matrices. 
+**Learning** Starting with imputation of missing data and turning cathegoricals into numericals, the churn predictor is built and applied to the cleaned data (tested/validated). The unbalanced nature of data is addressed by bootstrapping and/or setting class weights inversely proportional to class frequencies using a support vector classification approach. Rondom forrest is used to access feature importances. The efficiency of various churn predictors is gauged by constructing confusion matrices and ROC curves. 
